@@ -1,17 +1,54 @@
-# locavela_pos
+# ☕ Locavela POS
 
-A new Flutter project.
+## Deskripsi
 
-## Getting Started
+Locavela POS adalah aplikasi **Point of Sale (POS)** berbasis Flutter yang dibuat sebagai tugas **Ujian Tengah Semester (UTS)** Mata Kuliah **Pemrograman Mobile Menggunakan Flutter**.
 
-This project is a starting point for a Flutter application.
+## Fitur Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+* Splash Screen
+* Login & Register
+* Dashboard
+* Pencarian Menu
+* Filter Kategori
+* Detail Produk
+* Keranjang Belanja
+* Checkout
+* Invoice
+* QR Code
+* Riwayat Transaksi
+* Profil Pengguna
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Teknologi yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Provider
+* SharedPreferences
+* Material Design
+
+## Struktur Project
+
+```text
+lib/
+├── data/
+├── models/
+├── screens/
+├── services/
+├── theme/
+├── utils/
+├── widgets/
+└── main.dart
+```
+
+## Informasi Mahasiswa
+
+**Nama:** Jamalul Husnil Mubaraq
+
+**NPM:** 24105111161
+
+**Universitas:** Universitas Jabal Ghafur
+
+## Repository
+
+Source code aplikasi tersedia pada repository GitHub ini sebagai bagian dari tugas Ujian Tengah Semester (UTS) Mata Kuliah Pemrograman Mobile Menggunakan Flutter.
